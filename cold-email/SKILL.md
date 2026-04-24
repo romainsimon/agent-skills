@@ -21,6 +21,14 @@ A cold email should read like **a peer invitation**, not a marketing pitch. The 
 
 If it reads like something a SaaS product would blast from Mailchimp, it's wrong.
 
+## STOP — before you write a single draft
+
+**No em dashes (`—`). No en dashes (`–`). Ever.** Not in English drafts. Not in French drafts. Not in subject lines. Not in signatures.
+
+Use `,` or `.` or parentheses instead. Hyphens (`-`) are allowed ONLY for compound words like `AI-tool` or `self-employed`, never as sentence punctuation.
+
+This is rule #1 because it is the #1 mistake I keep making in this skill. If you catch yourself typing `—`, stop, pick a comma, or start a new sentence. Before saving any draft, run a visual scan for `—` / `–`.
+
 ## Anatomy of the initial email
 
 ```
