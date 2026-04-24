@@ -130,6 +130,7 @@ Three is the ceiling. Don't send a 4th, it's harassment territory.
 - **No em dashes**, no hyphens as dashes. Only hyphens for compound words.
 - **Never mix two CTAs in one thread.** Pick either "paid signup" or "affiliate" per contact. Mixed asks convert worse than either alone.
 - **Never promise things that aren't true.** "Free credits on signup" is only OK if free credits actually exist. "Studio ships early May" only if it does.
+- **Don't name-drop the recipient's own tools** (e.g., "saw you use Kling and Runway"). Even if you know from their videos, repeating it back reads as surveillance. Track what they use in the DB (`contact.aiToolsUsed`) and use it for segmentation + reply matching, not the cold body. Ask a curious question instead ("what AI tools are you using these days?") and let the prospect tell you.
 - **Link the product name** to its landing page in the HTML version. Let the plain text carry the product name normally; auto-link it on the way out (or write `<a href=...>Product</a>` if composing HTML directly).
 
 ## Direct pitch vs affiliate program (rule of thumb)
